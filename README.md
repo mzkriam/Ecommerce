@@ -1,22 +1,22 @@
 ====== FRONT-END =======
 
-Responsive Layout
-Shopping Cart, Wishlist, Product Reviews
-Coupons & Discounts
-Product attributes: cost price, promotion price, stock, size...
-Blog: category, tag, content, web page
-Module/Extension: Shipping, payment, discount, ...
-Upload manager: banner, images,..
-SEO support: customer URL b
-Newsletter management
-Contact forms with the real-time notification (Laravel Pusher)
-Related Products, Recommendations for you in our categories
-A Product search form
-Laravel Socialite implement(Facebook, Google & twitter) & Customer login
-Product Share and follow from different social platform...
-Payment integration(Paypal)
-Order Tracking system
-Multi-level comment system many more......
+Responsive Layout - 
+Shopping Cart, Wishlist, Product Reviews - 
+Coupons & Discounts - 
+Product attributes: cost price, promotion price, stock, size... - 
+Blog: category, tag, content, web page - 
+Module/Extension: Shipping, payment, discount, ... - 
+Upload manager: banner, images,.. - 
+SEO support: customer URL b - 
+Newsletter management - 
+Contact forms with the real-time notification (Laravel Pusher) - 
+Related Products, Recommendations for you in our categories - 
+A Product search form - 
+Laravel Socialite implement(Facebook, Google & twitter) & Customer login- 
+Product Share and follow from different social platform... - 
+Payment integration(Paypal) - 
+Order Tracking system - 
+Multi-level comment system many more...... - 
 
 
 ======= ADMIN =======
