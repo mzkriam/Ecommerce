@@ -1,6 +1,6 @@
 ====== FRONT-END =======
 
-Responsive Layout - 
+Responsive Layout <br/>
 Shopping Cart, Wishlist, Product Reviews - 
 Coupons & Discounts - 
 Product attributes: cost price, promotion price, stock, size... - 
