@@ -1,48 +1,46 @@
-====== FRONT-END =======
+# E-Commerce Platform
 
-Responsive Layout <br/>
-Shopping Cart, Wishlist, Product Reviews <br/>
-Coupons & Discounts <br/>
-Product attributes: cost price, promotion price, stock, size... <br/>
-Blog: category, tag, content, web page <br/>
-Module/Extension: Shipping, payment, discount, ... <br/>
-Upload manager: banner, images,.. <br/>
-SEO support: customer URL b <br/>
-Newsletter management <br/>
-Contact forms with the real-time notification (Laravel Pusher) <br/>
-Related Products, Recommendations for you in our categories <br/>
-A Product search form <br/>
-Laravel Socialite implement(Facebook, Google & twitter) & Customer login<br/>
-Product Share and follow from different social platform... <br/>
-Payment integration(Paypal) <br/>
-Order Tracking system <br/>
-Multi-level comment system many more...... <br/>
-<br/>
-<br/>
-======= ADMIN =======<br/>
-<br/>
-Admin roles, permission<br/>
-Product manager<br/>
-Media manager using unisharp laravel file manager<br/>
-Banner manager<br/>
-Order management<br/>
-Category management<br/>
-Brand management<br/>
-Shipping Management<br/>
-Review Management<br/>
-Blog, Category & Tag manager<br/>
-User Management<br/>
-Coupon Management<br/>
-System config: email setting, info shop, maintain status,...<br/>
-Line Chart & Pie chart ...<br/>
-Generate order in pdf form...<br/>
-Real time message & notification<br/>
-Profile Settings Many more....<br/>
-<br/>
-<br/>
-======= USER DASHBOARD =======<br/>
-<br/>
-Order management<br/>
-Review Management<br/>
-Comment Management<br/>
-Profile Settings<br/>
+## Front-End Features
+
+- **Responsive Layout**: Ensures a seamless experience across all devices.
+- **Shopping Cart & Wishlist**: Easy management of desired products.
+- **Product Reviews**: Customer feedback on products.
+- **Coupons & Discounts**: Engage customers with special offers.
+- **Product Attributes**: Includes cost price, promotion price, stock, size, etc.
+- **Blog**: Organized by category, tag, content, and web pages.
+- **Modules/Extensions**: For shipping, payment, discounts, and more.
+- **Upload Manager**: Manage banners and images efficiently.
+- **SEO Support**: Customizable URLs for better search engine rankings.
+- **Newsletter Management**: Keep subscribers updated.
+- **Contact Forms**: With real-time notifications via Laravel Pusher.
+- **Related Products & Recommendations**: Personalized suggestions.
+- **Product Search Form**: Quickly find products.
+- **Social Media Integration**: Login via Facebook, Google, & Twitter.
+- **Product Sharing**: Across different social platforms.
+- **Payment Integration**: Including PayPal.
+- **Order Tracking System**: Keep track of orders effortlessly.
+- **Multi-Level Comment System**: Engage with the community.
+
+## Admin Features
+
+- **Role-Based Access Control**: Define admin roles and permissions.
+- **Product Management**: Full control over product listings.
+- **Media Management**: Using unisharp laravel file manager.
+- **Banner Management**: Promote products or categories.
+- **Order & Category Management**: Keep everything organized.
+- **Brand & Shipping Management**: Maintain brand consistency and shipping options.
+- **Review & Blog Management**: Oversee customer reviews and blog content.
+- **User & Coupon Management**: Manage user accounts and promotional coupons.
+- **System Configuration**: Settings for email, shop info, and maintenance.
+- **Analytics**: Line charts and pie charts for data visualization.
+- **PDF Order Generation**: Create order receipts in PDF format.
+- **Real-Time Messaging & Notifications**: Stay updated instantly.
+
+## User Dashboard Features
+
+- **Order Management**: Track and manage personal orders.
+- **Review Management**: Leave feedback on purchased products.
+- **Comment Management**: Participate in product discussions.
+- **Profile Settings**: Update personal information and preferences.
+
+
