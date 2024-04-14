@@ -1,4 +1,4 @@
-# E-Commerce Platform
+# E-Commerce Platform 
 
 ## Front-End Features
 
@@ -42,6 +42,7 @@
 - **Review Management**: Leave feedback on purchased products.
 - **Comment Management**: Participate in product discussions.
 - **Profile Settings**: Update personal information and preferences.
+
 
 ![Ecommerce Website](https://github.com/mzkriam/Ecommerce/assets/73972415/c478cbbe-0e84-49fe-9a02-e4b9dc85d417)
 
